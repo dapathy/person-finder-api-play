@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/person-finder-api-play.iml" filepath="$PROJECT_DIR$/person-finder-api-play.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/person-finder-api-play-build.iml" filepath="$PROJECT_DIR$/.idea/modules/person-finder-api-play-build.iml" />
     </modules>
   </component>
 </project>
