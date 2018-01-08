@@ -9,7 +9,24 @@
       <excludeFolder url="file://$MODULE_DIR$/.gradle"/>
     </content>
     <orderEntry type="sourceFolder" forTests="false"/>
-    <orderEntry level="project" name="scala-sdk-2.12.4" type="library"/>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/build/playBinary/classes"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES/>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/build/playBinary/resources"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES/>
+      </library>
+    </orderEntry>
     <orderEntry type="module-library">
       <library>
         <CLASSES>
@@ -3657,6 +3674,7 @@
         </SOURCES>
       </library>
     </orderEntry>
+    <orderEntry level="project" name="scala-sdk-2.12.4" type="library"/>
   </component>
   <component name="ModuleRootManager"/>
 </module>
