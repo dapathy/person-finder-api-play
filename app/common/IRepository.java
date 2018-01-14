@@ -6,4 +6,6 @@ public interface IRepository<T> {
 	CompletionStage<T> add(T item);
 
 	CompletionStage<T> update(T item);
+
+	CompletionStage<T> delete(T item);
 }

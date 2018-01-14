@@ -2,6 +2,9 @@ package common;
 
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.CompletionStage;
+import java.util.function.Function;
+
+import javax.persistence.EntityManager;
 
 import models.DatabaseExecutionContext;
 import play.db.jpa.JPAApi;
@@ -18,17 +21,29 @@ public class Repository<T> implements IRepository<T> {
 
 	@Override
 	public CompletionStage<T> add(T item) {
-		return CompletableFuture.supplyAsync(() -> jpaApi.withTransaction(entityManager -> {
+		return performJpaOperation((entityManager -> {
 			entityManager.persist(item);
 			return item;
-		}), databaseExecutionContext);
+		}));
 	}
 
 	@Override
 	public CompletionStage<T> update(T item) {
-		return CompletableFuture.supplyAsync(() -> jpaApi.withTransaction(entityManager -> {
+		return performJpaOperation((entityManager -> {
 			entityManager.merge(item);
 			return item;
-		}), databaseExecutionContext);
+		}));
+	}
+
+	@Override
+	public CompletionStage<T> delete(T item) {
+		return performJpaOperation((entityManager -> {
+			entityManager.remove(item);
+			return item;
+		}));
+	}
+
+	protected CompletionStage<T> performJpaOperation(Function<EntityManager, T> operation) {
+		return CompletableFuture.supplyAsync(() -> jpaApi.withTransaction(operation), databaseExecutionContext);
 	}
 }
