@@ -1,6 +1,6 @@
-package models;
+package Repositories;
 
-import common.Repository;
+import models.Device;
 import play.db.jpa.JPAApi;
 
 public class DeviceRepository extends Repository<Device> implements IDeviceRepository{

@@ -1,6 +1,6 @@
-package models;
+package Repositories;
 
-import common.IRepository;
+import models.Device;
 
 public interface IDeviceRepository extends IRepository<Device>{
 }

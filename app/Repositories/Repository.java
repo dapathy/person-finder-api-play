@@ -1,4 +1,4 @@
-package common;
+package Repositories;
 
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.CompletionStage;
@@ -6,7 +6,6 @@ import java.util.function.Function;
 
 import javax.persistence.EntityManager;
 
-import models.DatabaseExecutionContext;
 import play.db.jpa.JPAApi;
 
 public class Repository<T> implements IRepository<T> {

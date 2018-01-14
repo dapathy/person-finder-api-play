@@ -1,6 +1,6 @@
-package models;
+package Repositories;
 
-import common.Repository;
+import models.Person;
 import play.db.jpa.JPAApi;
 
 public class PersonRepository extends Repository<Person> implements IPersonRepository{
