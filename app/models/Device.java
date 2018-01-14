@@ -18,6 +18,6 @@ public class Device {
 	public String macAddress;
 
 	@ManyToOne
-	@JoinColumn(name = "person_id")
-	public Person person;
+	@JoinColumn(name = "user_id")
+	public User user;
 }
