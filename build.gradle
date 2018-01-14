@@ -32,6 +32,8 @@ dependencies {
     play "org.hibernate:hibernate-core:5.2.5.Final"
     play "com.h2database:h2:1.4.194"
 
+    play "com.feth:play-authenticate_2.11:0.8.3"
+
     playTest "org.awaitility:awaitility:2.0.0"
     playTest "org.assertj:assertj-core:3.6.2"
     playTest "org.mockito:mockito-core:2.1.0"

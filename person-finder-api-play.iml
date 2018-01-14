@@ -9,6 +9,7 @@
       <excludeFolder url="file://$MODULE_DIR$/.gradle"/>
     </content>
     <orderEntry type="sourceFolder" forTests="false"/>
+    <orderEntry level="project" name="scala-sdk-2.12.4" type="library"/>
     <orderEntry type="module-library">
       <library>
         <CLASSES>
@@ -107,6 +108,17 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.feth/play-authenticate_2.11/0.8.3/630aa9be557d35417c36ec06061ec0858088dbb5/play-authenticate_2.11-0.8.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.feth/play-authenticate_2.11/0.8.3/581e1fd214c1270dfd57ed11bdadade4da8f876a/play-authenticate_2.11-0.8.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-java-forms_2.12/2.6.9/6c155f4c4c584410ac3e7742b7fc58de7e98148c/play-java-forms_2.12-2.6.9.jar!/"/>
         </CLASSES>
         <JAVADOC/>
@@ -189,6 +201,116 @@
         <JAVADOC/>
         <SOURCES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-ahc-ws-standalone_2.12/1.1.3/27ebb4a86c70a91dd56579083c1842355b883e28/play-ahc-ws-standalone_2.12-1.1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.feth/play-easymail_2.11/0.8.1/66e0ef52d861345fe374915d4006d922f8ad1c01/play-easymail_2.11-0.8.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.feth/play-easymail_2.11/0.8.1/ca571ee5d6e91bc8562710afc696c76d6f4f7caa/play-easymail_2.11-0.8.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-netty-server_2.11/2.5.1/d847fdae0ac603bc86031768389261df3049ae63/play-netty-server_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-netty-server_2.11/2.5.1/4433741275ea7765160c98f60df2dcaa9753906a/play-netty-server_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-server_2.11/2.5.1/fe74cbcf7dcb5dc0190f58150b2ab39987904ad0/play-server_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-server_2.11/2.5.1/6d8ffcf5e96771d20911c9f182eca37cbf31ef24/play-server_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-java-ws_2.11/2.5.1/6b6322ba3d55fac4c275c52de5ea719e2cbe1db4/play-java-ws_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-java-ws_2.11/2.5.1/954647ae83151b86d4e126bf0c407396b1a8fa67/play-java-ws_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-java_2.11/2.5.1/f3af94527424e79bd4268e56be0b34719e19d9ca/play-java_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-java_2.11/2.5.1/5a7518384ea05d3d4563f55b011089df1493145d/play-java_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-logback_2.11/2.5.1/b7e359d8f0b178bfd7b4bf2430e817db3958eff0/play-logback_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-logback_2.11/2.5.1/7c36ef58a1c5a8f8558012bdb79fec9f5c94af4a/play-logback_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-cache_2.11/2.5.1/1b452c071f9a4892d43057506b45eae74895fb70/play-cache_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-cache_2.11/2.5.1/1fb7cdf0c59467f7e6ec2a39c93e005e38a22cfd/play-cache_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-ws_2.11/2.5.1/6aa9e3f13b3be8bd280c9ec002f969db78b8ba5e/play-ws_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-ws_2.11/2.5.1/74f3d386922641de643e4634f083027047cc47ad/play-ws_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play_2.11/2.5.1/a0925c4bc2e785609470e7cfbaf55fc2338ddff3/play_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play_2.11/2.5.1/4b2abe356462bad5f2a4df8b89c5f9960cfabf07/play_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/twirl-api_2.11/1.1.1/b029d9500caec7fe30f9a485fc654ee82d40d404/twirl-api_2.11-1.1.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/twirl-api_2.11/1.1.1/5da972d58f8ad8333d4e7448c59eb3a9a074a85f/twirl-api_2.11-1.1.1-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -305,6 +427,105 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.11/1.0.1/21dbac0088b91b8ffb7ac385301f4340f8ebe71f/scala-xml_2.11-1.0.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.11/1.0.1/a598f0c51693338901223a8cf1f74a2d86279e2d/scala-xml_2.11-1.0.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-json_2.11/2.5.1/35ba71388ae9cc4fb7c98306baaf30a8746e17b2/play-json_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-json_2.11/2.5.1/3acb3efbb3c20c71c2afd5589a94771406b2b77c/play-json_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-streams_2.11/2.5.1/a0e1b3023d996415114c4602669e73a71b9ae3d0/play-streams_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-streams_2.11/2.5.1/8bfb9cbed13c1fe77fbf409701f8268d9d528760/play-streams_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-iteratees_2.11/2.5.1/2a2ac8df38d900423329d4ace17bbcb13a7a8324/play-iteratees_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-iteratees_2.11/2.5.1/5943b01379c6702f19e057e4d219c9a6e7e75c57/play-iteratees_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-slf4j_2.11/2.4.2/2b9e60b29bd11b97c3aba18d1a882286c86869c7/akka-slf4j_2.11-2.4.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-slf4j_2.11/2.4.2/c6c88d129c95ba4da0f9e2d229e5e9fa37f173e3/akka-slf4j_2.11-2.4.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-stream_2.11/2.4.2/4aa8d9a1499f77d6b5546791ecbba7423b319b7f/akka-stream_2.11-2.4.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-stream_2.11/2.4.2/c8adbd0411fdc8c0c6a0dd185694ab9a9dbb14de/akka-stream_2.11-2.4.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-actor_2.11/2.4.2/dae4f1a7ddfd0a14361f1a5ac79d19b4ad68712b/akka-actor_2.11-2.4.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-actor_2.11/2.4.2/f48b50df4f38b44e1cabcf13210077a58b0f0c43/akka-actor_2.11-2.4.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-java8-compat_2.11/0.7.0/a31b1b36bcf0d53657733b5d40c78d5f090a5dea/scala-java8-compat_2.11-0.7.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-java8-compat_2.11/0.7.0/fffca5653859d428c99e7b09ff2d503fae8c9477/scala-java8-compat_2.11-0.7.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-mailer_2.11/5.0.0/85eb42e85e04b40a08896eea5932e88cc71dc88c/play-mailer_2.11-5.0.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-mailer_2.11/5.0.0/4e51308b573f6342b87526045aadadbc4f139845/play-mailer_2.11-5.0.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.12/1.0.6/e22de3366a698a9f744106fb6dda4335838cf6a7/scala-xml_2.12-1.0.6.jar!/"/>
         </CLASSES>
         <JAVADOC/>
@@ -321,6 +542,72 @@
         <JAVADOC/>
         <SOURCES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe/ssl-config-core_2.12/0.2.2/1baaec9149929d0970330aa80aca73e3f1f15624/ssl-config-core_2.12-0.2.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.scala-stm/scala-stm_2.11/0.7/acece510055e8e47e142ad6671a9a8cf11a45007/scala-stm_2.11-0.7.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.scala-stm/scala-stm_2.11/0.7/4c087acd124ba7915f73339251ba8bbd4b466667/scala-stm_2.11-0.7-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe/ssl-config-akka_2.11/0.1.3/1df9213e44b8d8eba618c91b7b50715dd2e80ad/ssl-config-akka_2.11-0.1.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe/ssl-config-akka_2.11/0.1.3/e84b64f81be7b89cc80aaef037a0de52ff82cd5a/ssl-config-akka_2.11-0.1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe/ssl-config-core_2.11/0.1.3/7cbd26dfd61e6ed364156f5a50c231f6b52bd0f0/ssl-config-core_2.11-0.1.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe/ssl-config-core_2.11/0.1.3/379e0378b15041d5c5f1265aa9c1087d8a809250/ssl-config-core_2.11-0.1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.4/7369d653bcfa95d321994660477a4d7e81d7f490/scala-parser-combinators_2.11-1.0.4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.4/2c66955d5543265eb450de4e9ec7ac467d94be54/scala-parser-combinators_2.11-1.0.4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-functional_2.11/2.5.1/14cc155d709b67c595fd59f1fe91bc37117aa92/play-functional_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-functional_2.11/2.5.1/1040e0cc8399934c914341ff924664b6f136a708/play-functional_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-datacommons_2.11/2.5.1/ccba6dda603df4f5344367c7ad0594cd302ae7cc/play-datacommons_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-datacommons_2.11/2.5.1/be682de1f0195b9bd791e86e0c664ea76429f8b5/play-datacommons_2.11-2.5.1-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -503,6 +790,28 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-enhancer/1.1.0/62dc71057ab466ba576b88860ef33a5726cfec41/play-enhancer-1.1.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-enhancer/1.1.0/182f942cae083a785d8e9dac427b9e58bbc11673/play-enhancer-1.1.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/async-http-client/2.0.0-RC16/f4855ee04eaeedc6f760db35aae61cbaff32844c/async-http-client-2.0.0-RC16.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/async-http-client/2.0.0-RC16/5bb1e90bc4b002d4ea425703cd5d4baed57cf4bb/async-http-client-2.0.0-RC16-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.reflections/reflections/0.9.11/23bba0ff497ec61fbca967d9b641c7681a71edb3/reflections-0.9.11.jar!/"/>
         </CLASSES>
         <JAVADOC/>
@@ -589,6 +898,50 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/oauth.signpost/signpost-commonshttp4/1.2.1.2/731e05de30cfeb1f41d417f886277f9597fe0f36/signpost-commonshttp4-1.2.1.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/oauth.signpost/signpost-commonshttp4/1.2.1.2/800090917f3bc70acf695986c95245e80c13e06f/signpost-commonshttp4-1.2.1.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5/a1e6cbb3cc2c5f210dd1310ff9fcb2c09c0d1438/httpclient-4.5.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5/c9504d3448744739d334bde12bfbc91fd7f85115/httpclient-4.5-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.mindrot/jbcrypt/0.3m/fe2d9c5f23767d681a7e38fc8986b812400ec583/jbcrypt-0.3m.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.mindrot/jbcrypt/0.3m/a846e415cf6593433c7d3d23c1b0699e30c124f4/jbcrypt-0.3m-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.6/9d28a6b23650e8a7e9063c04588ace6cf7012c17/commons-lang3-3.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.6/4765e418c9084c4e01233cb5f09bdd6b5f311ccc/commons-lang3-3.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/net.jodah/typetools/0.5.0/f61380c805c48c98305157e2543ca0bfc91583fe/typetools-0.5.0.jar!/"/>
         </CLASSES>
         <JAVADOC/>
@@ -622,22 +975,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.25/af5364cd6679bfffb114f0dec8a157aaa283b76/jul-to-slf4j-1.7.25.jar!/"/>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/net.sf.ehcache/ehcache-core/2.6.11/fae7f84a5ffabe1b814e40190650c0ad5aeda5b1/ehcache-core-2.6.11.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.25/bcea1530927f59b5128841d3571f879ce3af2e86/jul-to-slf4j-1.7.25-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.25/f8c32b13ff142a513eeb5b6330b1588dcb2c0461/jcl-over-slf4j-1.7.25.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.25/ffd0827a7c67d5915b7dc611afbda56a1f247191/jcl-over-slf4j-1.7.25-sources.jar!/"/>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/net.sf.ehcache/ehcache-core/2.6.11/ff19d1cc359b751c727a88545eef88b40f72e5e9/ehcache-core-2.6.11-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -671,6 +1013,61 @@
         <JAVADOC/>
         <SOURCES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.googlecode.usc/jdbcdslog/1.0.6.2/8afbd1649a722e2e72d8a6ee746daf535a9d848b/jdbcdslog-1.0.6.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-resolver-dns/2.0.0-RC16/54a198d07bd85a3c5ef46e65b00b424dab212153/netty-resolver-dns-2.0.0-RC16.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-resolver-dns/2.0.0-RC16/64404945dd2bcc948b1b791a5a3fa4652bb65e81/netty-resolver-dns-2.0.0-RC16-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-resolver/2.0.0-RC16/ea34801132c172a2ac21b3fb4f59d28fd654853a/netty-resolver-2.0.0-RC16.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-resolver/2.0.0-RC16/cef7c24b518c3f0fe4c1198d7c73e188c54ed818/netty-resolver-2.0.0-RC16-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-codec-dns/2.0.0-RC16/1e765effa436e2a49f47a8df7b9e6d2e7accb890/netty-codec-dns-2.0.0-RC16.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-codec-dns/2.0.0-RC16/a384e37adfa82fd15e5073bf0108c617d357f0cb/netty-codec-dns-2.0.0-RC16-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.25/af5364cd6679bfffb114f0dec8a157aaa283b76/jul-to-slf4j-1.7.25.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.25/bcea1530927f59b5128841d3571f879ce3af2e86/jul-to-slf4j-1.7.25-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.25/f8c32b13ff142a513eeb5b6330b1588dcb2c0461/jcl-over-slf4j-1.7.25.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.25/ffd0827a7c67d5915b7dc611afbda56a1f247191/jcl-over-slf4j-1.7.25-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -754,6 +1151,17 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/oauth.signpost/signpost-core/1.2.1.2/bf95955dcf3d5a78c201e49b0c336787ea73f161/signpost-core-1.2.1.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/oauth.signpost/signpost-core/1.2.1.2/ecc909ea02db598e233d0f9536d0059fcbccc10a/signpost-core-1.2.1.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/4b95f4897fa13f2cd904aee711aeafc0c5295cd8/commons-codec-1.10.jar!/"/>
         </CLASSES>
         <JAVADOC/>
@@ -770,17 +1178,6 @@
         <JAVADOC/>
         <SOURCES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/22.0/55edc69e4fc937f4e58e577bb144b824c0ec7c55/guava-22.0-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.6/9d28a6b23650e8a7e9063c04588ace6cf7012c17/commons-lang3-3.6.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.6/4765e418c9084c4e01233cb5f09bdd6b5f311ccc/commons-lang3-3.6-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -864,6 +1261,28 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.netty/netty-reactive-streams-http/1.0.5/641c4ff0f2effad91cf5cc97d754f5c9c04a8c0e/netty-reactive-streams-http-1.0.5.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.netty/netty-reactive-streams-http/1.0.5/c5fba373d809d2e90fcc15a4fafd16c66c57bf9c/netty-reactive-streams-http-1.0.5-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.netty/netty-reactive-streams/1.0.5/99a93cbc7295e992881723883d5d33b69f868733/netty-reactive-streams-1.0.5.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.netty/netty-reactive-streams/1.0.5/afdee2d01939afbb2cebdbe0aa7dda9940b4b5a2/netty-reactive-streams-1.0.5-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.1/1b1c911686eb40179219466e6a59b634b9d7a748/reactive-streams-1.0.1.jar!/"/>
         </CLASSES>
         <JAVADOC/>
@@ -908,6 +1327,83 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.16/d64fb662c9e42789149f5078a62a22edda786c6a/snakeyaml-1.16.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.16/ad03b39efb3749be4c8d2eae23d6dee72c889f3b/snakeyaml-1.16-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/javax.el/javax.el-api/3.0.0/60a59edc89f93d57541da31ee1c83428ab1cdcb3/javax.el-api-3.0.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/javax.el/javax.el-api/3.0.0/47e51cd2f414ff54840b250985c3bce6f6e9d389/javax.el-api-3.0.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.1/f7be08ec23c21485b9b5a1cf1654c2ec8c58168d/jsr305-3.0.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.1/a2926c057ca3b662b9db194c869bdbe7d3bb8aef/jsr305-3.0.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-servlet-api/8.0.32/d597cd0f5fbdbaf400de972f4984744263e5fd5f/tomcat-servlet-api-8.0.32.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-servlet-api/8.0.32/1e1bafbc2c955c702a537336e241a3954621d22c/tomcat-servlet-api-8.0.32-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.0.34.Final/452cf34ac1a4bf43745eb2f3efc2766ef7aeb86/netty-transport-native-epoll-4.0.34.Final-linux-x86_64.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.0.34.Final/f0bf5bbb01ab11083474093198053f004a45cd68/netty-transport-native-epoll-4.0.34.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.1/f5aa318bda4c6c8d688c9d00b90681dcd82ce636/httpcore-4.4.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.1/9700be0d0a331691654a8e901943c9a74e33c5fc/httpcore-4.4.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-exceptions/2.6.9/33ceabfff9eca797c70411e694285b407b57238c/play-exceptions-2.6.9.jar!/"/>
         </CLASSES>
         <JAVADOC/>
@@ -941,22 +1437,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/8613ae82954779d518631e05daa73a6a954817d5/validation-api-1.1.0.Final.jar!/"/>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.joda/joda-convert/1.8.1/675642ac208e0b741bc9118dcbcae44c271b992a/joda-convert-1.8.1.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/7d49b53caed9bd81d172807c3e096d24f3c57090/validation-api-1.1.0.Final-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.joda/joda-convert/1.7/57c2432e54dc40f871f55295c676b22672713602/joda-convert-1.7.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.joda/joda-convert/1.7/18580d7afd985e5e66b453465356794b26e3066a/joda-convert-1.7-sources.jar!/"/>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.joda/joda-convert/1.8.1/7dea1f002df5fe9c0ab910b886aa550161f84867/joda-convert-1.8.1-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -972,10 +1457,122 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar!/"/>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/xerces/xercesImpl/2.11.0/9bb329db1cfc4e22462c9d6b43a8432f5850e92c/xercesImpl-2.11.0.jar!/"/>
         </CLASSES>
         <JAVADOC/>
-        <SOURCES/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/xerces/xercesImpl/2.11.0/af86e59459a503adec5e9b47426dd9fa2ac5f1f6/xercesImpl-2.11.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.0.34.Final/974e1c686ee143ae4d1266f64e03de657e778542/netty-codec-http-4.0.34.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.0.34.Final/9e892ddfb62819a1eb758273d188d5be974b8fc7/netty-codec-http-4.0.34.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.0.34.Final/4e4856c95972f591ee929c9fb81ec6afd005085c/netty-handler-4.0.34.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.0.34.Final/502c53325996fd78887e47c4b3785f8daaf05645/netty-handler-4.0.34.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.0.34.Final/db5d364d433e66093c2d76bf0c4ae823ca7c2f3d/netty-codec-4.0.34.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.0.34.Final/55f6a8cc55de1327fc431114a67859ac4ed3c165/netty-codec-4.0.34.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.0.34.Final/abe4f35c89043202c0e3d50e9a359e81ef863473/netty-transport-4.0.34.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.0.34.Final/a9c6695a4b532500f443e55711be9e78074de005/netty-transport-4.0.34.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.0.34.Final/5e1af9c24081df715a2332f42c9a06deed7a56fb/netty-buffer-4.0.34.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.0.34.Final/73deca60b95d969f2dfa29c6576ff31980d6fc5d/netty-buffer-4.0.34.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.0.34.Final/8d2c50a27a5a2d01e9f5c034a2865df75baa4776/netty-common-4.0.34.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.0.34.Final/3159f3d9640c9b7955925c4d7714a1ec5720feda/netty-common-4.0.34.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-email/1.4/3b3c527990f7f288a3a9b23a8c7307bbf7e75965/commons-email-1.4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-email/1.4/d2c48ea53814d5b02a7b0f5138d6b216134de9d/commons-email-1.4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/xml-apis/xml-apis/1.4.01/3789d9fada2d3d458c4ba2de349d48780f381ee3/xml-apis-1.4.01.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/xml-apis/xml-apis/1.4.01/5502da0c4c0a7916a604356ef19394ccfa30cd4b/xml-apis-1.4.01-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.sun.mail/javax.mail/1.5.2/ad1027a3d832bb7f34b4b9afeed760ca8eaa12f/javax.mail-1.5.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.sun.mail/javax.mail/1.5.2/e63057a5d10d5f48ce5baf942edccc402bb7560/javax.mail-1.5.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/javax.activation/activation/1.1.1/485de3a253e23f645037828c07f1d7f1af40763a/activation-1.1.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/javax.activation/activation/1.1.1/159e45688875fdabff19c9ceb7335aefe4df8339/activation-1.1.1-sources.jar!/"/>
+        </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
@@ -1008,6 +1605,17 @@
         <JAVADOC/>
         <SOURCES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.14/886474da3f761d39fcbb723d97ecc5089e731f42/animal-sniffer-annotations-1.14-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/8613ae82954779d518631e05daa73a6a954817d5/validation-api-1.1.0.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/7d49b53caed9bd81d172807c3e096d24f3c57090/validation-api-1.1.0.Final-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -1085,6 +1693,17 @@
         <JAVADOC/>
         <SOURCES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.h2database/h2/1.4.194/60aba689ca3459012da9115f68c4dcfcceee51b2/h2-1.4.194-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.feth/play-authenticate_2.11/0.8.3/630aa9be557d35417c36ec06061ec0858088dbb5/play-authenticate_2.11-0.8.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.feth/play-authenticate_2.11/0.8.3/581e1fd214c1270dfd57ed11bdadade4da8f876a/play-authenticate_2.11-0.8.3-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -1206,6 +1825,116 @@
         <JAVADOC/>
         <SOURCES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-ahc-ws-standalone_2.12/1.1.3/27ebb4a86c70a91dd56579083c1842355b883e28/play-ahc-ws-standalone_2.12-1.1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.feth/play-easymail_2.11/0.8.1/66e0ef52d861345fe374915d4006d922f8ad1c01/play-easymail_2.11-0.8.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.feth/play-easymail_2.11/0.8.1/ca571ee5d6e91bc8562710afc696c76d6f4f7caa/play-easymail_2.11-0.8.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-netty-server_2.11/2.5.1/d847fdae0ac603bc86031768389261df3049ae63/play-netty-server_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-netty-server_2.11/2.5.1/4433741275ea7765160c98f60df2dcaa9753906a/play-netty-server_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-server_2.11/2.5.1/fe74cbcf7dcb5dc0190f58150b2ab39987904ad0/play-server_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-server_2.11/2.5.1/6d8ffcf5e96771d20911c9f182eca37cbf31ef24/play-server_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-java-ws_2.11/2.5.1/6b6322ba3d55fac4c275c52de5ea719e2cbe1db4/play-java-ws_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-java-ws_2.11/2.5.1/954647ae83151b86d4e126bf0c407396b1a8fa67/play-java-ws_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-java_2.11/2.5.1/f3af94527424e79bd4268e56be0b34719e19d9ca/play-java_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-java_2.11/2.5.1/5a7518384ea05d3d4563f55b011089df1493145d/play-java_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-logback_2.11/2.5.1/b7e359d8f0b178bfd7b4bf2430e817db3958eff0/play-logback_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-logback_2.11/2.5.1/7c36ef58a1c5a8f8558012bdb79fec9f5c94af4a/play-logback_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-cache_2.11/2.5.1/1b452c071f9a4892d43057506b45eae74895fb70/play-cache_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-cache_2.11/2.5.1/1fb7cdf0c59467f7e6ec2a39c93e005e38a22cfd/play-cache_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-ws_2.11/2.5.1/6aa9e3f13b3be8bd280c9ec002f969db78b8ba5e/play-ws_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-ws_2.11/2.5.1/74f3d386922641de643e4634f083027047cc47ad/play-ws_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play_2.11/2.5.1/a0925c4bc2e785609470e7cfbaf55fc2338ddff3/play_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play_2.11/2.5.1/4b2abe356462bad5f2a4df8b89c5f9960cfabf07/play_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/twirl-api_2.11/1.1.1/b029d9500caec7fe30f9a485fc654ee82d40d404/twirl-api_2.11-1.1.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/twirl-api_2.11/1.1.1/5da972d58f8ad8333d4e7448c59eb3a9a074a85f/twirl-api_2.11-1.1.1-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -1344,6 +2073,105 @@
     <orderEntry type="module-library" scope="RUNTIME">
       <library>
         <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.11/1.0.1/21dbac0088b91b8ffb7ac385301f4340f8ebe71f/scala-xml_2.11-1.0.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.11/1.0.1/a598f0c51693338901223a8cf1f74a2d86279e2d/scala-xml_2.11-1.0.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-json_2.11/2.5.1/35ba71388ae9cc4fb7c98306baaf30a8746e17b2/play-json_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-json_2.11/2.5.1/3acb3efbb3c20c71c2afd5589a94771406b2b77c/play-json_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-streams_2.11/2.5.1/a0e1b3023d996415114c4602669e73a71b9ae3d0/play-streams_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-streams_2.11/2.5.1/8bfb9cbed13c1fe77fbf409701f8268d9d528760/play-streams_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-iteratees_2.11/2.5.1/2a2ac8df38d900423329d4ace17bbcb13a7a8324/play-iteratees_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-iteratees_2.11/2.5.1/5943b01379c6702f19e057e4d219c9a6e7e75c57/play-iteratees_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-slf4j_2.11/2.4.2/2b9e60b29bd11b97c3aba18d1a882286c86869c7/akka-slf4j_2.11-2.4.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-slf4j_2.11/2.4.2/c6c88d129c95ba4da0f9e2d229e5e9fa37f173e3/akka-slf4j_2.11-2.4.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-stream_2.11/2.4.2/4aa8d9a1499f77d6b5546791ecbba7423b319b7f/akka-stream_2.11-2.4.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-stream_2.11/2.4.2/c8adbd0411fdc8c0c6a0dd185694ab9a9dbb14de/akka-stream_2.11-2.4.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-actor_2.11/2.4.2/dae4f1a7ddfd0a14361f1a5ac79d19b4ad68712b/akka-actor_2.11-2.4.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-actor_2.11/2.4.2/f48b50df4f38b44e1cabcf13210077a58b0f0c43/akka-actor_2.11-2.4.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-java8-compat_2.11/0.7.0/a31b1b36bcf0d53657733b5d40c78d5f090a5dea/scala-java8-compat_2.11-0.7.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-java8-compat_2.11/0.7.0/fffca5653859d428c99e7b09ff2d503fae8c9477/scala-java8-compat_2.11-0.7.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-mailer_2.11/5.0.0/85eb42e85e04b40a08896eea5932e88cc71dc88c/play-mailer_2.11-5.0.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-mailer_2.11/5.0.0/4e51308b573f6342b87526045aadadbc4f139845/play-mailer_2.11-5.0.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/twirl-api_2.12/1.3.12/d7241e1c95a579e5201b6eda1a5d24889f43b9f/twirl-api_2.12-1.3.12.jar!/"/>
         </CLASSES>
         <JAVADOC/>
@@ -1371,6 +2199,72 @@
         <JAVADOC/>
         <SOURCES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe/ssl-config-core_2.12/0.2.2/1baaec9149929d0970330aa80aca73e3f1f15624/ssl-config-core_2.12-0.2.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.scala-stm/scala-stm_2.11/0.7/acece510055e8e47e142ad6671a9a8cf11a45007/scala-stm_2.11-0.7.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.scala-stm/scala-stm_2.11/0.7/4c087acd124ba7915f73339251ba8bbd4b466667/scala-stm_2.11-0.7-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe/ssl-config-akka_2.11/0.1.3/1df9213e44b8d8eba618c91b7b50715dd2e80ad/ssl-config-akka_2.11-0.1.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe/ssl-config-akka_2.11/0.1.3/e84b64f81be7b89cc80aaef037a0de52ff82cd5a/ssl-config-akka_2.11-0.1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe/ssl-config-core_2.11/0.1.3/7cbd26dfd61e6ed364156f5a50c231f6b52bd0f0/ssl-config-core_2.11-0.1.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe/ssl-config-core_2.11/0.1.3/379e0378b15041d5c5f1265aa9c1087d8a809250/ssl-config-core_2.11-0.1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.4/7369d653bcfa95d321994660477a4d7e81d7f490/scala-parser-combinators_2.11-1.0.4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.4/2c66955d5543265eb450de4e9ec7ac467d94be54/scala-parser-combinators_2.11-1.0.4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-functional_2.11/2.5.1/14cc155d709b67c595fd59f1fe91bc37117aa92/play-functional_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-functional_2.11/2.5.1/1040e0cc8399934c914341ff924664b6f136a708/play-functional_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-datacommons_2.11/2.5.1/ccba6dda603df4f5344367c7ad0594cd302ae7cc/play-datacommons_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-datacommons_2.11/2.5.1/be682de1f0195b9bd791e86e0c664ea76429f8b5/play-datacommons_2.11-2.5.1-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -1553,6 +2447,28 @@
     <orderEntry type="module-library" scope="RUNTIME">
       <library>
         <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-enhancer/1.1.0/62dc71057ab466ba576b88860ef33a5726cfec41/play-enhancer-1.1.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-enhancer/1.1.0/182f942cae083a785d8e9dac427b9e58bbc11673/play-enhancer-1.1.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/async-http-client/2.0.0-RC16/f4855ee04eaeedc6f760db35aae61cbaff32844c/async-http-client-2.0.0-RC16.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/async-http-client/2.0.0-RC16/5bb1e90bc4b002d4ea425703cd5d4baed57cf4bb/async-http-client-2.0.0-RC16-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.reflections/reflections/0.9.11/23bba0ff497ec61fbca967d9b641c7681a71edb3/reflections-0.9.11.jar!/"/>
         </CLASSES>
         <JAVADOC/>
@@ -1639,6 +2555,50 @@
     <orderEntry type="module-library" scope="RUNTIME">
       <library>
         <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/oauth.signpost/signpost-commonshttp4/1.2.1.2/731e05de30cfeb1f41d417f886277f9597fe0f36/signpost-commonshttp4-1.2.1.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/oauth.signpost/signpost-commonshttp4/1.2.1.2/800090917f3bc70acf695986c95245e80c13e06f/signpost-commonshttp4-1.2.1.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5/a1e6cbb3cc2c5f210dd1310ff9fcb2c09c0d1438/httpclient-4.5.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5/c9504d3448744739d334bde12bfbc91fd7f85115/httpclient-4.5-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.mindrot/jbcrypt/0.3m/fe2d9c5f23767d681a7e38fc8986b812400ec583/jbcrypt-0.3m.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.mindrot/jbcrypt/0.3m/a846e415cf6593433c7d3d23c1b0699e30c124f4/jbcrypt-0.3m-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.6/9d28a6b23650e8a7e9063c04588ace6cf7012c17/commons-lang3-3.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.6/4765e418c9084c4e01233cb5f09bdd6b5f311ccc/commons-lang3-3.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/net.jodah/typetools/0.5.0/f61380c805c48c98305157e2543ca0bfc91583fe/typetools-0.5.0.jar!/"/>
         </CLASSES>
         <JAVADOC/>
@@ -1672,22 +2632,11 @@
     <orderEntry type="module-library" scope="RUNTIME">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.25/af5364cd6679bfffb114f0dec8a157aaa283b76/jul-to-slf4j-1.7.25.jar!/"/>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/net.sf.ehcache/ehcache-core/2.6.11/fae7f84a5ffabe1b814e40190650c0ad5aeda5b1/ehcache-core-2.6.11.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.25/bcea1530927f59b5128841d3571f879ce3af2e86/jul-to-slf4j-1.7.25-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" scope="RUNTIME">
-      <library>
-        <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.25/f8c32b13ff142a513eeb5b6330b1588dcb2c0461/jcl-over-slf4j-1.7.25.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.25/ffd0827a7c67d5915b7dc611afbda56a1f247191/jcl-over-slf4j-1.7.25-sources.jar!/"/>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/net.sf.ehcache/ehcache-core/2.6.11/ff19d1cc359b751c727a88545eef88b40f72e5e9/ehcache-core-2.6.11-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -1721,6 +2670,61 @@
         <JAVADOC/>
         <SOURCES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.googlecode.usc/jdbcdslog/1.0.6.2/8afbd1649a722e2e72d8a6ee746daf535a9d848b/jdbcdslog-1.0.6.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-resolver-dns/2.0.0-RC16/54a198d07bd85a3c5ef46e65b00b424dab212153/netty-resolver-dns-2.0.0-RC16.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-resolver-dns/2.0.0-RC16/64404945dd2bcc948b1b791a5a3fa4652bb65e81/netty-resolver-dns-2.0.0-RC16-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-resolver/2.0.0-RC16/ea34801132c172a2ac21b3fb4f59d28fd654853a/netty-resolver-2.0.0-RC16.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-resolver/2.0.0-RC16/cef7c24b518c3f0fe4c1198d7c73e188c54ed818/netty-resolver-2.0.0-RC16-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-codec-dns/2.0.0-RC16/1e765effa436e2a49f47a8df7b9e6d2e7accb890/netty-codec-dns-2.0.0-RC16.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-codec-dns/2.0.0-RC16/a384e37adfa82fd15e5073bf0108c617d357f0cb/netty-codec-dns-2.0.0-RC16-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.25/af5364cd6679bfffb114f0dec8a157aaa283b76/jul-to-slf4j-1.7.25.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.25/bcea1530927f59b5128841d3571f879ce3af2e86/jul-to-slf4j-1.7.25-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.25/f8c32b13ff142a513eeb5b6330b1588dcb2c0461/jcl-over-slf4j-1.7.25.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.25/ffd0827a7c67d5915b7dc611afbda56a1f247191/jcl-over-slf4j-1.7.25-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -1804,6 +2808,17 @@
     <orderEntry type="module-library" scope="RUNTIME">
       <library>
         <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/oauth.signpost/signpost-core/1.2.1.2/bf95955dcf3d5a78c201e49b0c336787ea73f161/signpost-core-1.2.1.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/oauth.signpost/signpost-core/1.2.1.2/ecc909ea02db598e233d0f9536d0059fcbccc10a/signpost-core-1.2.1.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/4b95f4897fa13f2cd904aee711aeafc0c5295cd8/commons-codec-1.10.jar!/"/>
         </CLASSES>
         <JAVADOC/>
@@ -1820,17 +2835,6 @@
         <JAVADOC/>
         <SOURCES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/22.0/55edc69e4fc937f4e58e577bb144b824c0ec7c55/guava-22.0-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" scope="RUNTIME">
-      <library>
-        <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.6/9d28a6b23650e8a7e9063c04588ace6cf7012c17/commons-lang3-3.6.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.6/4765e418c9084c4e01233cb5f09bdd6b5f311ccc/commons-lang3-3.6-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -1914,6 +2918,28 @@
     <orderEntry type="module-library" scope="RUNTIME">
       <library>
         <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.netty/netty-reactive-streams-http/1.0.5/641c4ff0f2effad91cf5cc97d754f5c9c04a8c0e/netty-reactive-streams-http-1.0.5.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.netty/netty-reactive-streams-http/1.0.5/c5fba373d809d2e90fcc15a4fafd16c66c57bf9c/netty-reactive-streams-http-1.0.5-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.netty/netty-reactive-streams/1.0.5/99a93cbc7295e992881723883d5d33b69f868733/netty-reactive-streams-1.0.5.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.netty/netty-reactive-streams/1.0.5/afdee2d01939afbb2cebdbe0aa7dda9940b4b5a2/netty-reactive-streams-1.0.5-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.1/1b1c911686eb40179219466e6a59b634b9d7a748/reactive-streams-1.0.1.jar!/"/>
         </CLASSES>
         <JAVADOC/>
@@ -1958,6 +2984,83 @@
     <orderEntry type="module-library" scope="RUNTIME">
       <library>
         <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.16/d64fb662c9e42789149f5078a62a22edda786c6a/snakeyaml-1.16.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.16/ad03b39efb3749be4c8d2eae23d6dee72c889f3b/snakeyaml-1.16-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/javax.el/javax.el-api/3.0.0/60a59edc89f93d57541da31ee1c83428ab1cdcb3/javax.el-api-3.0.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/javax.el/javax.el-api/3.0.0/47e51cd2f414ff54840b250985c3bce6f6e9d389/javax.el-api-3.0.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.1/f7be08ec23c21485b9b5a1cf1654c2ec8c58168d/jsr305-3.0.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.1/a2926c057ca3b662b9db194c869bdbe7d3bb8aef/jsr305-3.0.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-servlet-api/8.0.32/d597cd0f5fbdbaf400de972f4984744263e5fd5f/tomcat-servlet-api-8.0.32.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-servlet-api/8.0.32/1e1bafbc2c955c702a537336e241a3954621d22c/tomcat-servlet-api-8.0.32-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.0.34.Final/452cf34ac1a4bf43745eb2f3efc2766ef7aeb86/netty-transport-native-epoll-4.0.34.Final-linux-x86_64.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.0.34.Final/f0bf5bbb01ab11083474093198053f004a45cd68/netty-transport-native-epoll-4.0.34.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.1/f5aa318bda4c6c8d688c9d00b90681dcd82ce636/httpcore-4.4.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.1/9700be0d0a331691654a8e901943c9a74e33c5fc/httpcore-4.4.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-exceptions/2.6.9/33ceabfff9eca797c70411e694285b407b57238c/play-exceptions-2.6.9.jar!/"/>
         </CLASSES>
         <JAVADOC/>
@@ -1991,17 +3094,6 @@
     <orderEntry type="module-library" scope="RUNTIME">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/8613ae82954779d518631e05daa73a6a954817d5/validation-api-1.1.0.Final.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/7d49b53caed9bd81d172807c3e096d24f3c57090/validation-api-1.1.0.Final-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" scope="RUNTIME">
-      <library>
-        <CLASSES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.pegdown/pegdown/1.6.0/231ae49d913467deb2027d0b8a0b68b231deef4f/pegdown-1.6.0.jar!/"/>
         </CLASSES>
         <JAVADOC/>
@@ -2024,11 +3116,11 @@
     <orderEntry type="module-library" scope="RUNTIME">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.joda/joda-convert/1.7/57c2432e54dc40f871f55295c676b22672713602/joda-convert-1.7.jar!/"/>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.joda/joda-convert/1.8.1/675642ac208e0b741bc9118dcbcae44c271b992a/joda-convert-1.8.1.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.joda/joda-convert/1.7/18580d7afd985e5e66b453465356794b26e3066a/joda-convert-1.7-sources.jar!/"/>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.joda/joda-convert/1.8.1/7dea1f002df5fe9c0ab910b886aa550161f84867/joda-convert-1.8.1-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -2044,11 +3136,132 @@
     <orderEntry type="module-library" scope="RUNTIME">
       <library>
         <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/xerces/xercesImpl/2.11.0/9bb329db1cfc4e22462c9d6b43a8432f5850e92c/xercesImpl-2.11.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/xerces/xercesImpl/2.11.0/af86e59459a503adec5e9b47426dd9fa2ac5f1f6/xercesImpl-2.11.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.0.34.Final/974e1c686ee143ae4d1266f64e03de657e778542/netty-codec-http-4.0.34.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.0.34.Final/9e892ddfb62819a1eb758273d188d5be974b8fc7/netty-codec-http-4.0.34.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.0.34.Final/4e4856c95972f591ee929c9fb81ec6afd005085c/netty-handler-4.0.34.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.0.34.Final/502c53325996fd78887e47c4b3785f8daaf05645/netty-handler-4.0.34.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.0.34.Final/db5d364d433e66093c2d76bf0c4ae823ca7c2f3d/netty-codec-4.0.34.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.0.34.Final/55f6a8cc55de1327fc431114a67859ac4ed3c165/netty-codec-4.0.34.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.0.34.Final/abe4f35c89043202c0e3d50e9a359e81ef863473/netty-transport-4.0.34.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.0.34.Final/a9c6695a4b532500f443e55711be9e78074de005/netty-transport-4.0.34.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.0.34.Final/5e1af9c24081df715a2332f42c9a06deed7a56fb/netty-buffer-4.0.34.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.0.34.Final/73deca60b95d969f2dfa29c6576ff31980d6fc5d/netty-buffer-4.0.34.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.0.34.Final/8d2c50a27a5a2d01e9f5c034a2865df75baa4776/netty-common-4.0.34.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.0.34.Final/3159f3d9640c9b7955925c4d7714a1ec5720feda/netty-common-4.0.34.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-email/1.4/3b3c527990f7f288a3a9b23a8c7307bbf7e75965/commons-email-1.4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-email/1.4/d2c48ea53814d5b02a7b0f5138d6b216134de9d/commons-email-1.4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.parboiled/parboiled-java/1.1.7/2298c64ce8ee8e2fb37e97e16d7be52f0c7cf61f/parboiled-java-1.1.7.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.parboiled/parboiled-java/1.1.7/daf5d5a09ec77a59859032ca9bd871c0a2478ea4/parboiled-java-1.1.7-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/xml-apis/xml-apis/1.4.01/3789d9fada2d3d458c4ba2de349d48780f381ee3/xml-apis-1.4.01.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/xml-apis/xml-apis/1.4.01/5502da0c4c0a7916a604356ef19394ccfa30cd4b/xml-apis-1.4.01-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.sun.mail/javax.mail/1.5.2/ad1027a3d832bb7f34b4b9afeed760ca8eaa12f/javax.mail-1.5.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.sun.mail/javax.mail/1.5.2/e63057a5d10d5f48ce5baf942edccc402bb7560/javax.mail-1.5.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/javax.activation/activation/1.1.1/485de3a253e23f645037828c07f1d7f1af40763a/activation-1.1.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/javax.activation/activation/1.1.1/159e45688875fdabff19c9ceb7335aefe4df8339/activation-1.1.1-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -2110,15 +3323,6 @@
     <orderEntry type="module-library" scope="RUNTIME">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES/>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" scope="RUNTIME">
-      <library>
-        <CLASSES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.0.18/5f65affce1684999e2f4024983835efc3504012e/error_prone_annotations-2.0.18.jar!/"/>
         </CLASSES>
         <JAVADOC/>
@@ -2146,6 +3350,17 @@
         <JAVADOC/>
         <SOURCES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.14/886474da3f761d39fcbb723d97ecc5089e731f42/animal-sniffer-annotations-1.14-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/8613ae82954779d518631e05daa73a6a954817d5/validation-api-1.1.0.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/7d49b53caed9bd81d172807c3e096d24f3c57090/validation-api-1.1.0.Final-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -2234,6 +3449,17 @@
         <JAVADOC/>
         <SOURCES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.h2database/h2/1.4.194/60aba689ca3459012da9115f68c4dcfcceee51b2/h2-1.4.194-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.feth/play-authenticate_2.11/0.8.3/630aa9be557d35417c36ec06061ec0858088dbb5/play-authenticate_2.11-0.8.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.feth/play-authenticate_2.11/0.8.3/581e1fd214c1270dfd57ed11bdadade4da8f876a/play-authenticate_2.11-0.8.3-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -2383,6 +3609,116 @@
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.feth/play-easymail_2.11/0.8.1/66e0ef52d861345fe374915d4006d922f8ad1c01/play-easymail_2.11-0.8.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.feth/play-easymail_2.11/0.8.1/ca571ee5d6e91bc8562710afc696c76d6f4f7caa/play-easymail_2.11-0.8.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-netty-server_2.11/2.5.1/d847fdae0ac603bc86031768389261df3049ae63/play-netty-server_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-netty-server_2.11/2.5.1/4433741275ea7765160c98f60df2dcaa9753906a/play-netty-server_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-server_2.11/2.5.1/fe74cbcf7dcb5dc0190f58150b2ab39987904ad0/play-server_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-server_2.11/2.5.1/6d8ffcf5e96771d20911c9f182eca37cbf31ef24/play-server_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-java-ws_2.11/2.5.1/6b6322ba3d55fac4c275c52de5ea719e2cbe1db4/play-java-ws_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-java-ws_2.11/2.5.1/954647ae83151b86d4e126bf0c407396b1a8fa67/play-java-ws_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-java_2.11/2.5.1/f3af94527424e79bd4268e56be0b34719e19d9ca/play-java_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-java_2.11/2.5.1/5a7518384ea05d3d4563f55b011089df1493145d/play-java_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-logback_2.11/2.5.1/b7e359d8f0b178bfd7b4bf2430e817db3958eff0/play-logback_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-logback_2.11/2.5.1/7c36ef58a1c5a8f8558012bdb79fec9f5c94af4a/play-logback_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-cache_2.11/2.5.1/1b452c071f9a4892d43057506b45eae74895fb70/play-cache_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-cache_2.11/2.5.1/1fb7cdf0c59467f7e6ec2a39c93e005e38a22cfd/play-cache_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-ws_2.11/2.5.1/6aa9e3f13b3be8bd280c9ec002f969db78b8ba5e/play-ws_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-ws_2.11/2.5.1/74f3d386922641de643e4634f083027047cc47ad/play-ws_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play_2.11/2.5.1/a0925c4bc2e785609470e7cfbaf55fc2338ddff3/play_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play_2.11/2.5.1/4b2abe356462bad5f2a4df8b89c5f9960cfabf07/play_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/twirl-api_2.11/1.1.1/b029d9500caec7fe30f9a485fc654ee82d40d404/twirl-api_2.11-1.1.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/twirl-api_2.11/1.1.1/5da972d58f8ad8333d4e7448c59eb3a9a074a85f/twirl-api_2.11-1.1.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-streams_2.12/2.6.9/3820c5897548fd8652548e4877a68a2d3f0c140/play-streams_2.12-2.6.9.jar!/"/>
         </CLASSES>
         <JAVADOC/>
@@ -2515,6 +3851,105 @@
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.11/1.0.1/21dbac0088b91b8ffb7ac385301f4340f8ebe71f/scala-xml_2.11-1.0.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.11/1.0.1/a598f0c51693338901223a8cf1f74a2d86279e2d/scala-xml_2.11-1.0.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-json_2.11/2.5.1/35ba71388ae9cc4fb7c98306baaf30a8746e17b2/play-json_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-json_2.11/2.5.1/3acb3efbb3c20c71c2afd5589a94771406b2b77c/play-json_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-streams_2.11/2.5.1/a0e1b3023d996415114c4602669e73a71b9ae3d0/play-streams_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-streams_2.11/2.5.1/8bfb9cbed13c1fe77fbf409701f8268d9d528760/play-streams_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-iteratees_2.11/2.5.1/2a2ac8df38d900423329d4ace17bbcb13a7a8324/play-iteratees_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-iteratees_2.11/2.5.1/5943b01379c6702f19e057e4d219c9a6e7e75c57/play-iteratees_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-slf4j_2.11/2.4.2/2b9e60b29bd11b97c3aba18d1a882286c86869c7/akka-slf4j_2.11-2.4.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-slf4j_2.11/2.4.2/c6c88d129c95ba4da0f9e2d229e5e9fa37f173e3/akka-slf4j_2.11-2.4.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-stream_2.11/2.4.2/4aa8d9a1499f77d6b5546791ecbba7423b319b7f/akka-stream_2.11-2.4.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-stream_2.11/2.4.2/c8adbd0411fdc8c0c6a0dd185694ab9a9dbb14de/akka-stream_2.11-2.4.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-actor_2.11/2.4.2/dae4f1a7ddfd0a14361f1a5ac79d19b4ad68712b/akka-actor_2.11-2.4.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-actor_2.11/2.4.2/f48b50df4f38b44e1cabcf13210077a58b0f0c43/akka-actor_2.11-2.4.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-java8-compat_2.11/0.7.0/a31b1b36bcf0d53657733b5d40c78d5f090a5dea/scala-java8-compat_2.11-0.7.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-java8-compat_2.11/0.7.0/fffca5653859d428c99e7b09ff2d503fae8c9477/scala-java8-compat_2.11-0.7.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-mailer_2.11/5.0.0/85eb42e85e04b40a08896eea5932e88cc71dc88c/play-mailer_2.11-5.0.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-mailer_2.11/5.0.0/4e51308b573f6342b87526045aadadbc4f139845/play-mailer_2.11-5.0.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.12/1.0.6/e22de3366a698a9f744106fb6dda4335838cf6a7/scala-xml_2.12-1.0.6.jar!/"/>
         </CLASSES>
         <JAVADOC/>
@@ -2531,6 +3966,72 @@
         <JAVADOC/>
         <SOURCES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe/ssl-config-core_2.12/0.2.2/1baaec9149929d0970330aa80aca73e3f1f15624/ssl-config-core_2.12-0.2.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.scala-stm/scala-stm_2.11/0.7/acece510055e8e47e142ad6671a9a8cf11a45007/scala-stm_2.11-0.7.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.scala-stm/scala-stm_2.11/0.7/4c087acd124ba7915f73339251ba8bbd4b466667/scala-stm_2.11-0.7-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe/ssl-config-akka_2.11/0.1.3/1df9213e44b8d8eba618c91b7b50715dd2e80ad/ssl-config-akka_2.11-0.1.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe/ssl-config-akka_2.11/0.1.3/e84b64f81be7b89cc80aaef037a0de52ff82cd5a/ssl-config-akka_2.11-0.1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe/ssl-config-core_2.11/0.1.3/7cbd26dfd61e6ed364156f5a50c231f6b52bd0f0/ssl-config-core_2.11-0.1.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe/ssl-config-core_2.11/0.1.3/379e0378b15041d5c5f1265aa9c1087d8a809250/ssl-config-core_2.11-0.1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.4/7369d653bcfa95d321994660477a4d7e81d7f490/scala-parser-combinators_2.11-1.0.4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.4/2c66955d5543265eb450de4e9ec7ac467d94be54/scala-parser-combinators_2.11-1.0.4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-functional_2.11/2.5.1/14cc155d709b67c595fd59f1fe91bc37117aa92/play-functional_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-functional_2.11/2.5.1/1040e0cc8399934c914341ff924664b6f136a708/play-functional_2.11-2.5.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-datacommons_2.11/2.5.1/ccba6dda603df4f5344367c7ad0594cd302ae7cc/play-datacommons_2.11-2.5.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-datacommons_2.11/2.5.1/be682de1f0195b9bd791e86e0c664ea76429f8b5/play-datacommons_2.11-2.5.1-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -2713,6 +4214,28 @@
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-enhancer/1.1.0/62dc71057ab466ba576b88860ef33a5726cfec41/play-enhancer-1.1.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-enhancer/1.1.0/182f942cae083a785d8e9dac427b9e58bbc11673/play-enhancer-1.1.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/async-http-client/2.0.0-RC16/f4855ee04eaeedc6f760db35aae61cbaff32844c/async-http-client-2.0.0-RC16.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/async-http-client/2.0.0-RC16/5bb1e90bc4b002d4ea425703cd5d4baed57cf4bb/async-http-client-2.0.0-RC16-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.reflections/reflections/0.9.11/23bba0ff497ec61fbca967d9b641c7681a71edb3/reflections-0.9.11.jar!/"/>
         </CLASSES>
         <JAVADOC/>
@@ -2799,176 +4322,22 @@
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/net.jodah/typetools/0.5.0/f61380c805c48c98305157e2543ca0bfc91583fe/typetools-0.5.0.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/net.jodah/typetools/0.5.0/c9f6661d39cf855398543f912b8bbc91a5214838/typetools-0.5.0-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" scope="TEST">
-      <library>
-        <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/build-link/2.6.9/17be6bf5a4684a1dfbc2ab6a236723b7bd6ee6ca/build-link-2.6.9.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/build-link/2.6.9/94ac4a53ccc94042b0d2d587883dd159fcb23df1/build-link-2.6.9-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" scope="TEST">
-      <library>
-        <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-netty-utils/2.6.9/d19aaca78b0e61c6e8d2f37e8cdcb55bf0fc38c7/play-netty-utils-2.6.9.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-netty-utils/2.6.9/9f835c154e9299fb983623f1f07feaadf7cc214a/play-netty-utils-2.6.9-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" scope="TEST">
-      <library>
-        <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.25/af5364cd6679bfffb114f0dec8a157aaa283b76/jul-to-slf4j-1.7.25.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.25/bcea1530927f59b5128841d3571f879ce3af2e86/jul-to-slf4j-1.7.25-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" scope="TEST">
-      <library>
-        <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.25/f8c32b13ff142a513eeb5b6330b1588dcb2c0461/jcl-over-slf4j-1.7.25.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.25/ffd0827a7c67d5915b7dc611afbda56a1f247191/jcl-over-slf4j-1.7.25-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" scope="TEST">
-      <library>
-        <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.jolbox/bonecp/0.8.0.RELEASE/cec24ee9345b3678472bb1b8fdd6aa6b9428beb8/bonecp-0.8.0.RELEASE.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.jolbox/bonecp/0.8.0.RELEASE/f8b6d5414837c881740594109e0400dfb65d4c0b/bonecp-0.8.0.RELEASE-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" scope="TEST">
-      <library>
-        <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.zaxxer/HikariCP/2.7.4/c101cbc2d07c0adffa0857e742229ef785892699/HikariCP-2.7.4.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.zaxxer/HikariCP/2.7.4/3faa58bd38011d5722a65ce9b9df631338962c1a/HikariCP-2.7.4-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" scope="TEST">
-      <library>
-        <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.googlecode.usc/jdbcdslog/1.0.6.2/1283d52ed667b481767e9dd253b530a203460282/jdbcdslog-1.0.6.2.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.googlecode.usc/jdbcdslog/1.0.6.2/8afbd1649a722e2e72d8a6ee746daf535a9d848b/jdbcdslog-1.0.6.2-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" scope="TEST">
-      <library>
-        <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/da76ca59f6a57ee3102f8f9bd9cee742973efa8a/slf4j-api-1.7.25.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/962153db4a9ea71b79d047dfd1b2a0d80d8f4739/slf4j-api-1.7.25-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" scope="TEST">
-      <library>
-        <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.jsonwebtoken/jjwt/0.7.0/f042fe2676bfdc2091545152e47d77e11999946d/jjwt-0.7.0.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.jsonwebtoken/jjwt/0.7.0/b75369bdfec0a18d83643580b1b2e608f4fa3ba4/jjwt-0.7.0-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" scope="TEST">
-      <library>
-        <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.8.10/6ab4b29da1dcc8599b706cb92dabe37a049f0259/jackson-datatype-jdk8-2.8.10.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.8.10/22448b0896b11c80f7a294770dfb3b4579b057a6/jackson-datatype-jdk8-2.8.10-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" scope="TEST">
-      <library>
-        <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.8.10/c7e69a2619d22f067e96ac1fec95b4157604167f/jackson-datatype-jsr310-2.8.10.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.8.10/7da373412d4ff472269314533fdbd1ec6373473d/jackson-datatype-jsr310-2.8.10-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" scope="TEST">
-      <library>
-        <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.8.10/f7b83cb2bc4b88d53961e749e1ad32f49ef017b7/jackson-databind-2.8.10.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.8.10/def9982a0ee209c6f906cf9119a3f1dc53449a4e/jackson-databind-2.8.10-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" scope="TEST">
-      <library>
-        <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.8.10/eb21a035c66ad307e66ec8fce37f5d50fd62d039/jackson-core-2.8.10.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.8.10/c9231226e0eb8e90ff73c09ae57487b451d65771/jackson-core-2.8.10-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" scope="TEST">
-      <library>
-        <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.8.10/5e924646d6f893bc9036939c5f2b4ecaee85e5da/jackson-annotations-2.8.10.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.8.10/b16b9ef708d5bfc833891af5a733d2db5f98f3ee/jackson-annotations-2.8.10-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" scope="TEST">
-      <library>
-        <CLASSES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-firefox-driver/3.5.3/383b86b040affddedf2a99b4faad4225f03891dd/selenium-firefox-driver-3.5.3.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-firefox-driver/3.5.3/3285492aef3bbe6d5c786bc2a0c4b31ae1e7cff7/selenium-firefox-driver-3.5.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/oauth.signpost/signpost-commonshttp4/1.2.1.2/731e05de30cfeb1f41d417f886277f9597fe0f36/signpost-commonshttp4-1.2.1.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/oauth.signpost/signpost-commonshttp4/1.2.1.2/800090917f3bc70acf695986c95245e80c13e06f/signpost-commonshttp4-1.2.1.2-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -3052,6 +4421,248 @@
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.mindrot/jbcrypt/0.3m/fe2d9c5f23767d681a7e38fc8986b812400ec583/jbcrypt-0.3m.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.mindrot/jbcrypt/0.3m/a846e415cf6593433c7d3d23c1b0699e30c124f4/jbcrypt-0.3m-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.6/9d28a6b23650e8a7e9063c04588ace6cf7012c17/commons-lang3-3.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.6/4765e418c9084c4e01233cb5f09bdd6b5f311ccc/commons-lang3-3.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/net.jodah/typetools/0.5.0/f61380c805c48c98305157e2543ca0bfc91583fe/typetools-0.5.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/net.jodah/typetools/0.5.0/c9f6661d39cf855398543f912b8bbc91a5214838/typetools-0.5.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/build-link/2.6.9/17be6bf5a4684a1dfbc2ab6a236723b7bd6ee6ca/build-link-2.6.9.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/build-link/2.6.9/94ac4a53ccc94042b0d2d587883dd159fcb23df1/build-link-2.6.9-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-netty-utils/2.6.9/d19aaca78b0e61c6e8d2f37e8cdcb55bf0fc38c7/play-netty-utils-2.6.9.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-netty-utils/2.6.9/9f835c154e9299fb983623f1f07feaadf7cc214a/play-netty-utils-2.6.9-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/net.sf.ehcache/ehcache-core/2.6.11/fae7f84a5ffabe1b814e40190650c0ad5aeda5b1/ehcache-core-2.6.11.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/net.sf.ehcache/ehcache-core/2.6.11/ff19d1cc359b751c727a88545eef88b40f72e5e9/ehcache-core-2.6.11-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.jolbox/bonecp/0.8.0.RELEASE/cec24ee9345b3678472bb1b8fdd6aa6b9428beb8/bonecp-0.8.0.RELEASE.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.jolbox/bonecp/0.8.0.RELEASE/f8b6d5414837c881740594109e0400dfb65d4c0b/bonecp-0.8.0.RELEASE-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.zaxxer/HikariCP/2.7.4/c101cbc2d07c0adffa0857e742229ef785892699/HikariCP-2.7.4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.zaxxer/HikariCP/2.7.4/3faa58bd38011d5722a65ce9b9df631338962c1a/HikariCP-2.7.4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.googlecode.usc/jdbcdslog/1.0.6.2/1283d52ed667b481767e9dd253b530a203460282/jdbcdslog-1.0.6.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.googlecode.usc/jdbcdslog/1.0.6.2/8afbd1649a722e2e72d8a6ee746daf535a9d848b/jdbcdslog-1.0.6.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-resolver-dns/2.0.0-RC16/54a198d07bd85a3c5ef46e65b00b424dab212153/netty-resolver-dns-2.0.0-RC16.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-resolver-dns/2.0.0-RC16/64404945dd2bcc948b1b791a5a3fa4652bb65e81/netty-resolver-dns-2.0.0-RC16-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-resolver/2.0.0-RC16/ea34801132c172a2ac21b3fb4f59d28fd654853a/netty-resolver-2.0.0-RC16.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-resolver/2.0.0-RC16/cef7c24b518c3f0fe4c1198d7c73e188c54ed818/netty-resolver-2.0.0-RC16-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-codec-dns/2.0.0-RC16/1e765effa436e2a49f47a8df7b9e6d2e7accb890/netty-codec-dns-2.0.0-RC16.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/netty-codec-dns/2.0.0-RC16/a384e37adfa82fd15e5073bf0108c617d357f0cb/netty-codec-dns-2.0.0-RC16-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.25/af5364cd6679bfffb114f0dec8a157aaa283b76/jul-to-slf4j-1.7.25.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.25/bcea1530927f59b5128841d3571f879ce3af2e86/jul-to-slf4j-1.7.25-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.25/f8c32b13ff142a513eeb5b6330b1588dcb2c0461/jcl-over-slf4j-1.7.25.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.25/ffd0827a7c67d5915b7dc611afbda56a1f247191/jcl-over-slf4j-1.7.25-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/da76ca59f6a57ee3102f8f9bd9cee742973efa8a/slf4j-api-1.7.25.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/962153db4a9ea71b79d047dfd1b2a0d80d8f4739/slf4j-api-1.7.25-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.jsonwebtoken/jjwt/0.7.0/f042fe2676bfdc2091545152e47d77e11999946d/jjwt-0.7.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.jsonwebtoken/jjwt/0.7.0/b75369bdfec0a18d83643580b1b2e608f4fa3ba4/jjwt-0.7.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.8.10/6ab4b29da1dcc8599b706cb92dabe37a049f0259/jackson-datatype-jdk8-2.8.10.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.8.10/22448b0896b11c80f7a294770dfb3b4579b057a6/jackson-datatype-jdk8-2.8.10-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.8.10/c7e69a2619d22f067e96ac1fec95b4157604167f/jackson-datatype-jsr310-2.8.10.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.8.10/7da373412d4ff472269314533fdbd1ec6373473d/jackson-datatype-jsr310-2.8.10-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.8.10/f7b83cb2bc4b88d53961e749e1ad32f49ef017b7/jackson-databind-2.8.10.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.8.10/def9982a0ee209c6f906cf9119a3f1dc53449a4e/jackson-databind-2.8.10-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.8.10/eb21a035c66ad307e66ec8fce37f5d50fd62d039/jackson-core-2.8.10.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.8.10/c9231226e0eb8e90ff73c09ae57487b451d65771/jackson-core-2.8.10-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.8.10/5e924646d6f893bc9036939c5f2b4ecaee85e5da/jackson-annotations-2.8.10.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.8.10/b16b9ef708d5bfc833891af5a733d2db5f98f3ee/jackson-annotations-2.8.10-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/oauth.signpost/signpost-core/1.2.1.2/bf95955dcf3d5a78c201e49b0c336787ea73f161/signpost-core-1.2.1.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/oauth.signpost/signpost-core/1.2.1.2/ecc909ea02db598e233d0f9536d0059fcbccc10a/signpost-core-1.2.1.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/4b95f4897fa13f2cd904aee711aeafc0c5295cd8/commons-codec-1.10.jar!/"/>
         </CLASSES>
         <JAVADOC/>
@@ -3068,17 +4679,6 @@
         <JAVADOC/>
         <SOURCES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/23.0/ed233607c5c11e1a13a3fd760033ed5d9fe525c2/guava-23.0-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" scope="TEST">
-      <library>
-        <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.6/9d28a6b23650e8a7e9063c04588ace6cf7012c17/commons-lang3-3.6.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.6/4765e418c9084c4e01233cb5f09bdd6b5f311ccc/commons-lang3-3.6-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -3272,6 +4872,28 @@
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.netty/netty-reactive-streams-http/1.0.5/641c4ff0f2effad91cf5cc97d754f5c9c04a8c0e/netty-reactive-streams-http-1.0.5.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.netty/netty-reactive-streams-http/1.0.5/c5fba373d809d2e90fcc15a4fafd16c66c57bf9c/netty-reactive-streams-http-1.0.5-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.netty/netty-reactive-streams/1.0.5/99a93cbc7295e992881723883d5d33b69f868733/netty-reactive-streams-1.0.5.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.netty/netty-reactive-streams/1.0.5/afdee2d01939afbb2cebdbe0aa7dda9940b4b5a2/netty-reactive-streams-1.0.5-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.1/1b1c911686eb40179219466e6a59b634b9d7a748/reactive-streams-1.0.1.jar!/"/>
         </CLASSES>
         <JAVADOC/>
@@ -3316,6 +4938,72 @@
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.16/d64fb662c9e42789149f5078a62a22edda786c6a/snakeyaml-1.16.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.16/ad03b39efb3749be4c8d2eae23d6dee72c889f3b/snakeyaml-1.16-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/javax.el/javax.el-api/3.0.0/60a59edc89f93d57541da31ee1c83428ab1cdcb3/javax.el-api-3.0.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/javax.el/javax.el-api/3.0.0/47e51cd2f414ff54840b250985c3bce6f6e9d389/javax.el-api-3.0.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-servlet-api/8.0.32/d597cd0f5fbdbaf400de972f4984744263e5fd5f/tomcat-servlet-api-8.0.32.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-servlet-api/8.0.32/1e1bafbc2c955c702a537336e241a3954621d22c/tomcat-servlet-api-8.0.32-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.0.34.Final/452cf34ac1a4bf43745eb2f3efc2766ef7aeb86/netty-transport-native-epoll-4.0.34.Final-linux-x86_64.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.0.34.Final/f0bf5bbb01ab11083474093198053f004a45cd68/netty-transport-native-epoll-4.0.34.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.6/e3fd8ced1f52c7574af952e2e6da0df8df08eb82/httpcore-4.4.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.6/57cc0a7af46d66754e632bddc558a913b9e66ac3/httpcore-4.4.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.typesafe.play/play-exceptions/2.6.9/33ceabfff9eca797c70411e694285b407b57238c/play-exceptions-2.6.9.jar!/"/>
         </CLASSES>
         <JAVADOC/>
@@ -3343,17 +5031,6 @@
         <JAVADOC/>
         <SOURCES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.9.9/29a9fcf32288cd678b37b372974786f731b982d1/joda-time-2.9.9-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" scope="TEST">
-      <library>
-        <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/8613ae82954779d518631e05daa73a6a954817d5/validation-api-1.1.0.Final.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/7d49b53caed9bd81d172807c3e096d24f3c57090/validation-api-1.1.0.Final-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -3404,33 +5081,11 @@
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" scope="TEST">
-      <library>
-        <CLASSES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/baf95d8519fc1a11d388f8543cb40cd2bb9d66dc/gson-2.8.0-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" scope="TEST">
-      <library>
-        <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.6/e3fd8ced1f52c7574af952e2e6da0df8df08eb82/httpcore-4.4.6.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.6/57cc0a7af46d66754e632bddc558a913b9e66ac3/httpcore-4.4.6-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -3459,11 +5114,11 @@
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.joda/joda-convert/1.7/57c2432e54dc40f871f55295c676b22672713602/joda-convert-1.7.jar!/"/>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.joda/joda-convert/1.8.1/675642ac208e0b741bc9118dcbcae44c271b992a/joda-convert-1.8.1.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.joda/joda-convert/1.7/18580d7afd985e5e66b453465356794b26e3066a/joda-convert-1.7-sources.jar!/"/>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.joda/joda-convert/1.8.1/7dea1f002df5fe9c0ab910b886aa550161f84867/joda-convert-1.8.1-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -3474,6 +5129,105 @@
         </CLASSES>
         <JAVADOC/>
         <SOURCES/>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlunit/neko-htmlunit/2.27/a1afb1fd290cc6d076639d852b80943c10ace0a2/neko-htmlunit-2.27.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlunit/neko-htmlunit/2.27/856b84bd5d2b0dd33cf62af6adc215c222d2bd85/neko-htmlunit-2.27-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/xerces/xercesImpl/2.11.0/9bb329db1cfc4e22462c9d6b43a8432f5850e92c/xercesImpl-2.11.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/xerces/xercesImpl/2.11.0/af86e59459a503adec5e9b47426dd9fa2ac5f1f6/xercesImpl-2.11.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.0.34.Final/974e1c686ee143ae4d1266f64e03de657e778542/netty-codec-http-4.0.34.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.0.34.Final/9e892ddfb62819a1eb758273d188d5be974b8fc7/netty-codec-http-4.0.34.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.0.34.Final/4e4856c95972f591ee929c9fb81ec6afd005085c/netty-handler-4.0.34.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.0.34.Final/502c53325996fd78887e47c4b3785f8daaf05645/netty-handler-4.0.34.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.0.34.Final/db5d364d433e66093c2d76bf0c4ae823ca7c2f3d/netty-codec-4.0.34.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.0.34.Final/55f6a8cc55de1327fc431114a67859ac4ed3c165/netty-codec-4.0.34.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.0.34.Final/abe4f35c89043202c0e3d50e9a359e81ef863473/netty-transport-4.0.34.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.0.34.Final/a9c6695a4b532500f443e55711be9e78074de005/netty-transport-4.0.34.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.0.34.Final/5e1af9c24081df715a2332f42c9a06deed7a56fb/netty-buffer-4.0.34.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.0.34.Final/73deca60b95d969f2dfa29c6576ff31980d6fc5d/netty-buffer-4.0.34.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.0.34.Final/8d2c50a27a5a2d01e9f5c034a2865df75baa4776/netty-common-4.0.34.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.0.34.Final/3159f3d9640c9b7955925c4d7714a1ec5720feda/netty-common-4.0.34.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-email/1.4/3b3c527990f7f288a3a9b23a8c7307bbf7e75965/commons-email-1.4.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-email/1.4/d2c48ea53814d5b02a7b0f5138d6b216134de9d/commons-email-1.4-sources.jar!/"/>
+        </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
@@ -3495,17 +5249,6 @@
         <JAVADOC/>
         <SOURCES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit-core-js/2.27/150ad3ea7bf73e46388527b0fee81c79f6d91d21/htmlunit-core-js-2.27-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" scope="TEST">
-      <library>
-        <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlunit/neko-htmlunit/2.27/a1afb1fd290cc6d076639d852b80943c10ace0a2/neko-htmlunit-2.27.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlunit/neko-htmlunit/2.27/856b84bd5d2b0dd33cf62af6adc215c222d2bd85/neko-htmlunit-2.27-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -3534,22 +5277,44 @@
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/xalan/serializer/2.7.2/24247f3bb052ee068971393bdb83e04512bb1c3c/serializer-2.7.2.jar!/"/>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/xml-apis/xml-apis/1.4.01/3789d9fada2d3d458c4ba2de349d48780f381ee3/xml-apis-1.4.01.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/xalan/serializer/2.7.2/fe9c3d37a49238fac9d4d6c4f5bbd8c334da787a/serializer-2.7.2-sources.jar!/"/>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/xml-apis/xml-apis/1.4.01/5502da0c4c0a7916a604356ef19394ccfa30cd4b/xml-apis-1.4.01-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/xerces/xercesImpl/2.11.0/9bb329db1cfc4e22462c9d6b43a8432f5850e92c/xercesImpl-2.11.0.jar!/"/>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.sun.mail/javax.mail/1.5.2/ad1027a3d832bb7f34b4b9afeed760ca8eaa12f/javax.mail-1.5.2.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/xerces/xercesImpl/2.11.0/af86e59459a503adec5e9b47426dd9fa2ac5f1f6/xercesImpl-2.11.0-sources.jar!/"/>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/com.sun.mail/javax.mail/1.5.2/e63057a5d10d5f48ce5baf942edccc402bb7560/javax.mail-1.5.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/javax.activation/activation/1.1.1/485de3a253e23f645037828c07f1d7f1af40763a/activation-1.1.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/javax.activation/activation/1.1.1/159e45688875fdabff19c9ceb7335aefe4df8339/activation-1.1.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/xalan/serializer/2.7.2/24247f3bb052ee068971393bdb83e04512bb1c3c/serializer-2.7.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/xalan/serializer/2.7.2/fe9c3d37a49238fac9d4d6c4f5bbd8c334da787a/serializer-2.7.2-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -3622,17 +5387,6 @@
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/xml-apis/xml-apis/1.4.01/3789d9fada2d3d458c4ba2de349d48780f381ee3/xml-apis-1.4.01.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/xml-apis/xml-apis/1.4.01/5502da0c4c0a7916a604356ef19394ccfa30cd4b/xml-apis-1.4.01-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" scope="TEST">
-      <library>
-        <CLASSES>
           <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-api/9.4.5.v20170502/521348a576e0d70f4abb7813fa1743919ec0921a/websocket-api-9.4.5.v20170502.jar!/"/>
         </CLASSES>
         <JAVADOC/>
@@ -3674,7 +5428,17 @@
         </SOURCES>
       </library>
     </orderEntry>
-    <orderEntry level="project" name="scala-sdk-2.12.4" type="library"/>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/8613ae82954779d518631e05daa73a6a954817d5/validation-api-1.1.0.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tjdfa/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/7d49b53caed9bd81d172807c3e096d24f3c57090/validation-api-1.1.0.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
   <component name="ModuleRootManager"/>
 </module>
