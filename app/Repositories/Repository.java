@@ -10,8 +10,8 @@ import play.db.jpa.JPAApi;
 
 public class Repository<T> implements IRepository<T> {
 
-	private final JPAApi jpaApi;
-	private final DatabaseExecutionContext databaseExecutionContext;
+	protected final JPAApi jpaApi;
+	protected final DatabaseExecutionContext databaseExecutionContext;
 
 	public Repository(JPAApi jpaApi, DatabaseExecutionContext databaseExecutionContext) {
 		this.jpaApi = jpaApi;
