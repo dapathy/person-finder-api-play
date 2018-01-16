@@ -5,8 +5,16 @@
 # Home page
 GET     /                           controllers.Application.index
 
+# Users
+GET     /user/:macAddress           controllers.UserController.
+
 # Devices
 POST    /device                     controllers.DeviceController.tryCreateDevice
+
+# PlayAuthenticate
+GET     /logout                     com.feth.play.module.pa.controllers.Authenticate.logout
+GET     /authenticate/:provider     com.feth.play.module.pa.controllers.Authenticate.authenticate(provider: String)
+GET     /authenticate/:provider/denied     controllers.Application.onAuthDenied(provider: String)
 
 # Map static resources from the /public folder to the /assets URL path
 GET     /assets/*file               controllers.Assets.at(path="/public", file)
