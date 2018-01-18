@@ -1,2 +1,11 @@
 # person-finder-api-play
-Companion API to the Person Finder app built with Play.
+
+## Description
+
+Web API to the Companion Android app.
+
+## Built with
+
+- Java
+- Play
+- Hibernate (to be replaced with Ebean eventually)
